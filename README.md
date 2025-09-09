@@ -10,6 +10,7 @@ Scope:
  - Build a stopwatch with Start, Pause, Reset.
  - Use useRef to store the timer ID (so it doesn’t reset every render).
  - Display elapsed time in HH:MM:SS.
+
 👉 Learn: useRef for intervals & storing values without re-render.
 
 # 2. Expensive Calculation Dashboard (📊 useMemo)
